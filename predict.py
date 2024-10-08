@@ -7,6 +7,7 @@ import sys
 inp = sys.argv[1]
 
 # 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
+# dgvdvndlvjhdvdcjljndlkndlkbjgbndl
 
 image_size = 200
 labels = ['Normal','Parkinsons']
